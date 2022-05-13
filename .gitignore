@@ -1,0 +1,13 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/FootballClubsApp/bin/Debug/netcoreapp3.1
+/.vs/FootballClubsApp/v17
+/FootballClubsApp/obj
+/FootballClubsApp/Data/Лига1/Клуб1.txt
+/FootballClubsApp.WPF/bin/Debug/netcoreapp3.1
+/FootballClubsApp.WPF/obj
+/FootballClubsApp.WPFMVVM/bin/Debug/netcoreapp3.1
+/FootballClubsApp.WPFMVVM/obj
+/.vs
